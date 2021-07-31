@@ -16,9 +16,7 @@ Finally, we’ll submit a written report that summarizes how the data differs by
 
 # Challenge Summary
 
-There is a description of the differences in ride-sharing data among the different city types. 
-Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. 
-
+## Pyber Results
 
 When looking at our riding sharing data we can see that Urban areas had the highest total rides with 1,625.  This was followed by Suburban total rides at 625 and Rural having 125 total rides.
 
@@ -37,8 +35,13 @@ The average fair per ride and driver is highest in Rural areas with $34.62 per r
 <img width="787" alt="pyber - avg ride and driver" src="https://user-images.githubusercontent.com/691355/127751991-ad8ceb90-b0d3-46fa-a439-77b8b677ecc0.png">
 
 
+##  Pyber Summary:
+
+Based on our data we can make some recommendations to the CEO for addressing disparities among the city types.
+
+1.  Explore the potential to increase fairs in Urban areas.  Urban areas have the highest amount of rides (1,625) but the lowest average per ride ($24.53) when compared to both Suburban ($30.97) and Rural ($55.49) areas.
+
+2.  Increase the total drivers for Suburban Areas.  Suburban areas had 625 rides and 490 drivers.  With continued growth there will be higher demand in Suburban areas and potentiall to few drivers.
 
 
-
-
-##  Pyber Results:
+3.  Increase marketing campaigns for urban areas.  Urban areas have 2405 drivers but only gave 1,625 rides.
